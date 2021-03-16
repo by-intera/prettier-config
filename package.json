@@ -1,9 +1,18 @@
 {
-  "name": "@intera/prettier-config",
-  "version": "0.1.0",
+  "name": "@byintera/prettier-config",
+  "version": "0.0.1",
   "description": "Shared prettier config",
-  "main": "prettier.json",
-  "keywords": ["prettier", "config"],
   "author": "Intera <tech@byintera.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/by-intera/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/by-intera/prettier-config/issues"
+  },
+  "homepage": "https://github.com/by-intera/prettier-config",
+  "main": "prettier.json",
+  "files": ["prettier.json"],
+  "keywords": ["prettier", "config"],
   "license": "MIT"
 }
