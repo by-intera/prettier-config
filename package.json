@@ -1,6 +1,6 @@
 {
   "name": "@byintera/prettier-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Shared prettier config",
   "author": "Intera <tech@byintera.com>",
   "repository": {
@@ -12,7 +12,12 @@
   },
   "homepage": "https://github.com/by-intera/prettier-config",
   "main": "prettier.json",
-  "files": ["prettier.json"],
-  "keywords": ["prettier", "config"],
+  "files": [
+    "prettier.json"
+  ],
+  "keywords": [
+    "prettier",
+    "config"
+  ],
   "license": "MIT"
 }
