@@ -1,0 +1,9 @@
+{
+  "name": "@intera/prettier-config",
+  "version": "0.1.0",
+  "description": "Shared prettier config",
+  "main": "prettier.json",
+  "keywords": ["prettier", "config"],
+  "author": "Intera <tech@byintera.com>",
+  "license": "MIT"
+}
